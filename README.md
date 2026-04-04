@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashu</h1>
+<h3 align="center">Aspiring Python Backend Developer</h3>
 
-<!--
-**Ashu-Backend/Ashu-Backend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I’m passionate about backend development  
+- 🧠 Skilled in Python, Flask, MySQL, MongoDB, NumPy  
+- 📚 Currently improving my problem-solving skills  
+- 🎯 Goal: To become a professional backend developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- Python  
+- Flask  
+- MySQL  
+- MongoDB  
+- NumPy  
+
+---
+
+## 📌 Projects
+- 🔹 Matrix Operations Tool (NumPy)
+- 🔹 Water Reminder with Voice Alerts
+- 🔹 PDF Merger Tool  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn :- www.linkedin.com/in/ashuyadav18
+
