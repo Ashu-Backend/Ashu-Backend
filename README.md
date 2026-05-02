@@ -21,6 +21,7 @@
 ---
 
 ## 📌 Projects
+- 🔹 Expense Tracker Using Flask & MySQL
 - 🔹 Matrix Operations Tool (NumPy)
 - 🔹 Water Reminder with Voice Alerts
 - 🔹 PDF Merger Tool  
