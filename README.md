@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashu</h1>
-<h3 align="center">Aspiring Python Backend Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 ---
 
 ## 🚀 About Me
-- 💻 I’m passionate about backend development  
-- 🧠 Skilled in Python, Flask, MySQL, MongoDB, NumPy  
+- 💻 I’m passionate about Full Stack Development  
+- 🧠 Skilled in Python, Flask,RESTAPI MySQL, MongoDB, NumPy
 - 📚 Currently improving my problem-solving skills  
 - 🎯 Goal: To become a professional backend developer  
 
@@ -13,10 +13,14 @@
 
 ## 🛠️ Tech Stack
 - Python  
-- Flask  
+- Flask
+- FastAPI
+- RESTAPI
 - MySQL  
 - MongoDB  
-- NumPy  
+- NumPy
+- HTML
+- CSS
 
 ---
 
